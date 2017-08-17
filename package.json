@@ -14,7 +14,7 @@
     "c++14",
     "c++11"
   ],
-  "repository": "https://github.com/atom/cpp-compile-on-save",
+  "repository": "https://github.com/livace/cpp-compile-on-save",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
