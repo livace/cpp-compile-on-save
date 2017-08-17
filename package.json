@@ -1,0 +1,24 @@
+{
+  "name": "cpp-compile-on-save",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "compile file on save",
+  "keywords": [
+    "cpp",
+    "gpp",
+    "clang",
+    "compile",
+    "save",
+    "c++",
+    "std",
+    "c++14",
+    "c++11"
+  ],
+  "repository": "https://github.com/atom/cpp-compile-on-save",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
