@@ -8,11 +8,7 @@
     "gpp",
     "clang",
     "compile",
-    "save",
-    "c++",
-    "std",
-    "c++14",
-    "c++11"
+    "c++"
   ],
   "repository": "https://github.com/livace/cpp-compile-on-save",
   "license": "MIT",
